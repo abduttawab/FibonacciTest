@@ -1,0 +1,6 @@
+c:\users\abdut tawab\documents\visual studio 2015\Projects\ProgrammingTest\ProgrammingTest\bin\Debug\ProgrammingTest.exe.config
+c:\users\abdut tawab\documents\visual studio 2015\Projects\ProgrammingTest\ProgrammingTest\bin\Debug\ProgrammingTest.exe
+c:\users\abdut tawab\documents\visual studio 2015\Projects\ProgrammingTest\ProgrammingTest\bin\Debug\ProgrammingTest.pdb
+c:\users\abdut tawab\documents\visual studio 2015\Projects\ProgrammingTest\ProgrammingTest\obj\Debug\ProgrammingTest.csprojResolveAssemblyReference.cache
+c:\users\abdut tawab\documents\visual studio 2015\Projects\ProgrammingTest\ProgrammingTest\obj\Debug\ProgrammingTest.exe
+c:\users\abdut tawab\documents\visual studio 2015\Projects\ProgrammingTest\ProgrammingTest\obj\Debug\ProgrammingTest.pdb
